@@ -1,0 +1,25 @@
+[ 
+    {  
+        "nome": "Matheus",
+        "peso": 70,
+        "altura": 1.54,
+        "gordura": 17,
+        "imc": 19.82
+
+    },
+    {
+        "nome": "Kelen",
+        "peso": 52,
+        "altura": 1.53,
+        "gordura": 17,
+        "imc": 20.76
+    },
+        {  
+        "nome": "Maria",
+        "peso": 55,
+        "altura": 1.67,
+        "gordura": 17,
+        "imc": 19.82
+
+    }
+]
