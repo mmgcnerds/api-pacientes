@@ -14,10 +14,42 @@
         "gordura": 17,
         "imc": 20.76
     },
-        {  
+    {  
         "nome": "Maria",
         "peso": 55,
         "altura": 1.67,
+        "gordura": 17,
+        "imc": 19.82
+
+    },
+    {  
+        "nome": "Deroni",
+        "peso": 59,
+        "altura": 1.67,
+        "gordura": 19,
+        "imc": 19.82
+
+    },
+    {  
+        "nome": "Jair",
+        "peso": 95,
+        "altura": 1.95,
+        "gordura": 25,
+        "imc": 19.82
+
+    },
+    {  
+        "nome": "Douglas",
+        "peso": 72,
+        "altura": 1.80,
+        "gordura": 17,
+        "imc": 19.82
+
+    },
+    {  
+        "nome": "teste",
+        "peso": 100,
+        "altura": 2.00,
         "gordura": 17,
         "imc": 19.82
 
